@@ -1,0 +1,22 @@
+{
+  "name": "ggenerator-utils",
+  "version": "1.0.0",
+  "description": "common utils for gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceunlonely/ggenerator-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aceunlonely/ggenerator-utils/issues"
+  },
+  "homepage": "https://github.com/aceunlonely/ggenerator-utils#readme"
+}
